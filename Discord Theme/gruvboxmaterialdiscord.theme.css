@@ -1,0 +1,40 @@
+/**
+ * @name Gruvbox Material Discord
+ * @description Allows you to customize Discord's native Color Scheme.
+ * @author DevilBro
+ * @version 1.0.0
+ * @authorId 278543574059057154
+ * @invite Jx3TjNS
+ * @donate https://www.paypal.me/MircoWittrien
+ * @patreon https://www.patreon.com/MircoWittrien
+ * @website https://mwittrien.github.io/
+ * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Themes/DiscordRecolor/
+ * @BDEditor DiscordRecolor
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 212,190,152;
+  --accentcolor2: 216,166,87;
+  --linkcolor: 216,166,87;
+  --mentioncolor: 216,166,87;
+  --textbrightest: 221,199,161;
+  --textbrighter: 221,199,161;
+  --textbright: 212,190,152;
+  --textdark: 212,190,152;
+  --textdarker: 221,199,161;
+  --textdarkest: 75,65,60;
+  --font: gg sans;
+  --backgroundaccent: 50,48,47;
+  --backgroundprimary: 40,40,40;
+  --backgroundsecondary: 20,22,23;
+  --backgroundsecondaryalt: 50,48,47;
+  --backgroundtertiary: 29,32,33;
+  --backgroundfloating: 29,32,33;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
