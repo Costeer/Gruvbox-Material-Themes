@@ -2,6 +2,7 @@
 custom gruvbox material themes for apps like discord and spotify
 
 Custom themes:
+
 Spotify
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
 
