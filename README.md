@@ -38,6 +38,8 @@ custom gruvbox material themes for discord, spotify and krita
 ![Screenshot from 2023-08-13 23-01-56](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/fc8b1194-a400-4ce5-99c7-9c892c086439)
 **Made using https://bdeditor.dev/theme/discordrecolor**
 
+**you need to have vencord better discord or somthing similar installed to be able to use this theme**
+
 **how to install**
 1) download the theme
-2) drag it inside your themes folder
+2) install it like any other vencord/betterdiscord/... theme
