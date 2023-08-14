@@ -3,6 +3,9 @@ https://github.com/sainnhe/gruvbox-material
 
 custom gruvbox material themes for discord, spotify and krita
 
+**Color palet**
+![213884009-87533cf3-e3c5-4d46-85f7-f6993b6dd887](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/5002adbf-afbd-4963-bf0d-9da4770b5ad4)
+
 
 ## Spotify
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
