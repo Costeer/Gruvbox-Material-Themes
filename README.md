@@ -1,12 +1,9 @@
-# Gruvbox Material Themes
-https://github.com/sainnhe/gruvbox-material
+# [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) Themes
 
-custom gruvbox material themes for discord, spotify and krita
 
-**Color palet**
-![213884009-87533cf3-e3c5-4d46-85f7-f6993b6dd887](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/5002adbf-afbd-4963-bf0d-9da4770b5ad4)
+**Custom gruvbox material themes for varius apps**
 
-## Index
+### Index
 - Themes
   - [Spotify](#spotify)
   - [Krita](#krita)
@@ -16,7 +13,7 @@ custom gruvbox material themes for discord, spotify and krita
   
 # Themes
 
-## Spotify
+### Spotify
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
 **how to install** 
 1) install sicetify (https://spicetify.app/docs/advanced-usage/installation/)
@@ -29,9 +26,11 @@ custom gruvbox material themes for discord, spotify and krita
 
 5) then apply it like you would any other color variation for the text theme
 
-## Krita
+
+# 
+### Krita
 ![Screenshot from 2023-08-13 23-00-07](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/c7eb58ab-acb6-4f70-9fb6-1bbf62cabb44)
-**made using https://krita-artists.org/t/plugin-theme-creator-extension/62953**
+*made using https://krita-artists.org/t/plugin-theme-creator-extension/62953*
 
 **how to install**
 1) download the theme
@@ -43,7 +42,8 @@ custom gruvbox material themes for discord, spotify and krita
 7) drag the "gruvboxy.colours" file inside the "color-schemes" folder
 8) apply the theme in krita
 
-## Discord
+# 
+### Discord
 ![Screenshot from 2023-08-13 23-01-56](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/fc8b1194-a400-4ce5-99c7-9c892c086439)
 **Made using https://bdeditor.dev/theme/discordrecolor**
 
@@ -56,11 +56,14 @@ custom gruvbox material themes for discord, spotify and krita
 
 # Wallpapers
 
-## Line
+### Line
 ![Gruvboxwall-Nobara](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/9603fa48-c3df-4fd5-b94c-cd03ce982186)
+# 
 ![Gruvboxwall-Nobara2](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/8b43db51-d51b-49ed-9709-4e138e16e4a4)
+# 
 ![Gruvboxwall-Nobara2-angeled](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/ccfb3842-cff5-434c-962c-ec9bf9c57752)
+# 
 ![Gruvboxwall-Nobara2-angeled-differently-like-a-compleatly-different-image](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/f314436d-ccce-467f-9431-23b9a1b5c94b)
-
+# 
 
 
