@@ -9,7 +9,7 @@
   - [Discord](#discord)
 - Wallpapers
   - [Line](#line)
-- [Color Pallet](color)
+- [Color Pallet](color pallet)
 # Themes
 
 ### **Spotify**
