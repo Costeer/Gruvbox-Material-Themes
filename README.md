@@ -12,7 +12,7 @@ custom gruvbox material themes for discord, spotify and krita
   - [Krita](#krita)
   - [Discord](#discord)
 - Wallpapers
-  -[Line](#line)
+  - [Line](#line)
   
 # Themes
 
