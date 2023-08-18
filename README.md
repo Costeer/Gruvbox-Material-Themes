@@ -6,6 +6,15 @@ custom gruvbox material themes for discord, spotify and krita
 **Color palet**
 ![213884009-87533cf3-e3c5-4d46-85f7-f6993b6dd887](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/5002adbf-afbd-4963-bf0d-9da4770b5ad4)
 
+## Index
+- Themes
+  - [Spotify](#spotify)
+  - [Krita](#krita)
+  - [Discord](#discord)
+- Wallpapers
+  -[Line](#line)
+  
+# Themes
 
 ## Spotify
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
@@ -43,3 +52,15 @@ custom gruvbox material themes for discord, spotify and krita
 **how to install**
 1) download the theme
 2) install it like any other vencord/betterdiscord/... theme
+
+
+# Wallpapers
+
+## Line
+![Gruvboxwall-Nobara](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/9603fa48-c3df-4fd5-b94c-cd03ce982186)
+![Gruvboxwall-Nobara2](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/8b43db51-d51b-49ed-9709-4e138e16e4a4)
+![Gruvboxwall-Nobara2-angeled](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/ccfb3842-cff5-434c-962c-ec9bf9c57752)
+![Gruvboxwall-Nobara2-angeled-differently-like-a-compleatly-different-image](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/f314436d-ccce-467f-9431-23b9a1b5c94b)
+
+
+
