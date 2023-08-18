@@ -2,17 +2,17 @@
 
 **Custom gruvbox material themes for various apps**
 
-### Index
+### Index:
 - Themes
-- [Spotify](#spotify)
-- [Krita](#krita)
-- [Discord](#discord)
+  - [Spotify](#spotify)
+  - [Krita](#krita)
+  - [Discord](#discord)
 - Wallpapers
-- [Line](#line)
+  - [Line](#line)
 
 # Themes
 
-### Spotify
+### **Spotify**
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
 **how to install**
 1) install spicetify (https://spicetify.app/docs/advanced-usage/installation/)
@@ -26,7 +26,7 @@
 5) then apply it like you would any other color variation for the text theme
 
 #
-### Krita
+### **Krita**
 ![Screenshot from 2023-08-13 23-00-07](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/c7eb58ab-acb6-4f70-9fb6-1bbf62cabb44)
 *made using https://krita-artists.org/t/plugin-theme-creator-extension/62953*
 
@@ -52,7 +52,8 @@
 2) install it like any other vencord/betterdiscord/... theme
 
 # Wallpapers
-
+*all wallpaper can be downloaded in the "Wallpapers"*
+ folder
 ### Line
 ![Gruvboxwall-Nobara](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/9603fa48-c3df-4fd5-b94c-cd03ce982186)
 #
