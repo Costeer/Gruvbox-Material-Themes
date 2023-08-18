@@ -9,7 +9,7 @@
   - [Discord](#discord)
 - Wallpapers
   - [Line](#line)
-
+- [Color Pallet](color)
 # Themes
 
 ### **Spotify**
@@ -62,5 +62,7 @@
 ![Gruvboxwall-Nobara2-angeled](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/ccfb3842-cff5-434c-962c-ec9bf9c57752)
 #
 ![Gruvboxwall-Nobara2-angeled-differently-like-a-compleatly-different-image](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/f314436d-ccce-467f-9431-23b9a1b5c94b)
-#
 
+# Color Pallet
+![213884009-87533cf3-e3c5-4d46-85f7-f6993b6dd887](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3e46c0d1-cbf2-43ef-a338-250b86616d5d)
+*source: https://github.com/sainnhe/gruvbox-material*
