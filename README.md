@@ -56,7 +56,13 @@
 **Made using Gradience obviously https://github.com/GradienceTeam/Gradience
 
 **how to install**
-No idear good luck i provided the .json in the Gradience folder
+1) Download the .json
+2) Open Gradience and click on the brush symbole
+3) Click on "manage presets"
+4) click on import
+5) navigate to the GruvboxMaterial Dark.jsom file
+6) Click Select
+**Enjoy the Preset**
 
 
 # Wallpapers
