@@ -51,6 +51,11 @@
 1) download the theme
 2) install it like any other vencord/betterdiscord/... theme
 
+### Gradience
+![Screenshot from 2023-08-26 11-33-09](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/deb4b25c-35c3-4055-bb0b-0520bef55d61)
+Made using Gradience obviously https://github.com/GradienceTeam/Gradience
+
+
 # Wallpapers
 *all wallpaper can be downloaded in the "Wallpapers"*
  folder
