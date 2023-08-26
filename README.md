@@ -53,7 +53,10 @@
 
 ### Gradience
 ![Screenshot from 2023-08-26 11-33-09](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/deb4b25c-35c3-4055-bb0b-0520bef55d61)
-Made using Gradience obviously https://github.com/GradienceTeam/Gradience
+**Made using Gradience obviously https://github.com/GradienceTeam/Gradience
+
+**how to install**
+No idear good luck i provided the .json in the Gradience folder
 
 
 # Wallpapers
