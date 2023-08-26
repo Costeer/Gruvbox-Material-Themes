@@ -68,6 +68,7 @@
 5) navigate to the GruvboxMaterial Dark.jsom file
 6) Click Select
 **Enjoy the Preset**
+Do you whant to have a nice consistant gruvbox themed gnome desktop? check out this video https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
 
 # Wallpapers
