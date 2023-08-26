@@ -7,6 +7,7 @@
   - [Spotify](#spotify)
   - [Krita](#krita)
   - [Discord](#discord)
+  - [Gradience](#gradience)
 - Wallpapers
   - [Line](#line)
 - [Color Pallet](#color-pallet)
