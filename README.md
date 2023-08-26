@@ -58,7 +58,7 @@
 ![Screenshot from 2023-08-26 11-46-18](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/0c2e71c0-90e8-47b0-85c0-99676fdbdbcf)
 #
 ![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/1a0a1e8e-786b-4175-93aa-00ad8e39c643)
-**Made using Gradience obviously https://github.com/GradienceTeam/Gradience
+*Made using Gradience obviously https://github.com/GradienceTeam/Gradience*
 
 **how to install**
 1) Download the .json
