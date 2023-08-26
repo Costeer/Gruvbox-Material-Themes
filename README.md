@@ -58,7 +58,7 @@
 ![Screenshot from 2023-08-26 11-46-18](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/0c2e71c0-90e8-47b0-85c0-99676fdbdbcf)
 #
 ![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/1a0a1e8e-786b-4175-93aa-00ad8e39c643)
-*Made using Gradience obviously https://github.com/GradienceTeam/Gradience*
+*Made using Gradience https://github.com/GradienceTeam/Gradience*
 
 **how to install**
 1) Download the .json
@@ -72,8 +72,8 @@ Do you whant to have a nice consistant gruvbox themed gnome desktop? check out t
 
 
 # Wallpapers
-*all wallpaper can be downloaded in the "Wallpapers"*
- folder
+*all wallpaper can be downloaded in the "Wallpapers"
+ folder*
 ### Line
 ![Gruvboxwall-Nobara](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/9603fa48-c3df-4fd5-b94c-cd03ce982186)
 #
