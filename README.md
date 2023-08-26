@@ -53,11 +53,12 @@
 2) install it like any other vencord/betterdiscord/... theme
 
 ### Gradience
-![Screenshot from 2023-08-26 11-33-09](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/deb4b25c-35c3-4055-bb0b-0520bef55d61)
-#
-![Screenshot from 2023-08-26 11-46-18](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/0c2e71c0-90e8-47b0-85c0-99676fdbdbcf)
-#
-![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/1a0a1e8e-786b-4175-93aa-00ad8e39c643)
+![preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/61813c0a-19e9-4364-97c0-103d99141c86)
+# 
+![Screenshot from 2023-08-26 11-46-18](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/55ef3f43-15f3-4257-80d7-b138a400742f)
+# 
+![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/552a137a-b8e3-4052-9673-94cffd93938d)
+
 *Made using Gradience https://github.com/GradienceTeam/Gradience*
 
 **how to install**
