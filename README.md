@@ -52,6 +52,7 @@
 1) download the theme
 2) install it like any other vencord/betterdiscord/... theme
 
+# 
 ### Gradience
 ![preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/61813c0a-19e9-4364-97c0-103d99141c86)
 # 
