@@ -43,7 +43,13 @@
 
 #
 ### Discord
-![Screenshot from 2023-08-13 23-01-56](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/fc8b1194-a400-4ce5-99c7-9c892c086439)
+![Discord theme preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3a5da34a-2b2e-4299-b7ed-de105c56f2d0)
+*Dark*
+#
+![Discord theme preview-light](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3fe4a25f-b9b5-481f-81ea-cf83b5b17245)
+*Light*
+
+
 **Made using https://bdeditor.dev/theme/discordrecolor**
 
 **you need to have vencord better discord or something similar installed to be able to use this theme**
