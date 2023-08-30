@@ -1,0 +1,36 @@
+/**
+ * @name GruvBox Material
+ * @description Gruvbox Material theme.
+ * @author Costeer
+ * @version 1.0.0
+ * @invite Ab96qcPYrG
+ * @website https://github.com/Costeer
+ * @source https://github.com/Costeer/Gruvbox-Material-Themes
+*/
+
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+
+:root {
+  --accentcolor: 212,190,152;
+  --accentcolor2: 216,166,87;
+  --linkcolor: 216,166,87;
+  --mentioncolor: 216,166,87;
+  --textbrightest: 221,199,161;
+  --textbrighter: 221,199,161;
+  --textbright: 212,190,152;
+  --textdark: 212,190,152;
+  --textdarker: 221,199,161;
+  --textdarkest: 75,65,60;
+  --font: gg sans;
+  --backgroundaccent: 60,56,54;
+  --backgroundprimary: 50,48,47;
+  --backgroundsecondary: 40,40,41;
+  --backgroundsecondaryalt: 40,40,40;
+  --backgroundtertiary: 29,32,33;
+  --backgroundfloating: 29,32,33;
+  --settingsicons: 1;
+}
+
+/* Any custom CSS below here */
+
+
