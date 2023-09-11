@@ -55,9 +55,7 @@
 
 you need to have [Vencord](https://vencord.dev/), [Better discord](https://betterdiscord.app/) or something similar installed to be able to use this theme
 
-**how to install**
-1) download the theme
-2) install it like any other vencord/betterdiscord/... theme
+**[How to install](https://github.com/Costeer/Tutorial-Discord-Themes-Gruvbox/tree/master)**
 
 # 
 ### Gradience
