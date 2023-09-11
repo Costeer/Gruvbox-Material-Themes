@@ -2,6 +2,10 @@
 
 **Custom gruvbox material themes for various apps**
 
+1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)"
+
+2. If you find any spelling mistakes please make a new Issue i have Dyslexia and English isn't my native language 
+
 ### Index:
 - Themes
   - [Spotify](#spotify)
@@ -15,17 +19,16 @@
 
 ### **Spotify**
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
-
 **how to install**
-1) install spicetify (https://spicetify.app/docs/advanced-usage/installation/)
+1) Install [Spicetify](https://spicetify.app/docs/advanced-usage/installation/).
 
-2) download and install the text theme (https://github.com/spicetify/spicetify-themes/tree/master)
+2) Download and install the ["text" theme](https://github.com/spicetify/spicetify-themes/tree/master).
 
-3) download the theme in the "spotify theme" folder open the file called "color.ini"
+3) Download the theme in the "spotify theme" folder open the file called "color.ini".
 
-4) copy the contents and add them to the "color.ini" file in ~/spicetify/Themes/text/
+4) Copy the contents and add them to the "color.ini" file in `/spicetify/Themes/text/`.
 
-5) then apply it like you would any other color variation for the text theme
+5) Then apply it like you would any other color variation for the text theme.
 
 #
 ### **Krita**
@@ -33,14 +36,22 @@
 *made using https://krita-artists.org/t/plugin-theme-creator-extension/62953*
 
 **how to install**
-1) download the theme in the "Krita Theme" folder
-2) open krita
-3) click on "Settings"
-4) click on "Manage resources"
-5) click on "Open resource folder"
-6) open the "color-schemes" folder (create one if you can't find it)
-7) drag the "gruvboxy.colours" file inside the "color-schemes" folder
-8) apply the theme in krita
+
+1) Download the theme in the "Krita Theme" folder.
+
+3) Open krita.
+
+5) Click on "Settings".
+
+7) Click on "Manage resources".
+
+9) Click on "Open resource folder".
+
+11) Open the "color-schemes" folder (create one if you can't find it).
+
+13) Drag the "gruvboxy.colours" file inside the "color-schemes" folder.
+
+15) Apply the Theme in krita.
 
 #
 ### Discord
@@ -72,13 +83,22 @@ This is also compatible with the [firefox gnome theme](https://github.com/rafael
 
 **how to install**
 1) Download the .json
-2) Open Gradience and click on the brush symbole
-3) Click on "manage presets"
-4) click on import
-5) navigate to the GruvboxMaterial Dark.jsom file
-6) Click Select
+
+3) Open Gradience and click on the brush symbole
+
+5) Click on "manage presets"
+
+7) click on import
+
+9) navigate to the GruvboxMaterial Dark.jsom file
+
+11) Click Select
+
 **Enjoy the Preset**
-Do you whant to have a nice consistant gruvbox themed gnome desktop? check out this video https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
+
+Do you whant to have a nice consistant gruvbox themed gnome desktop? check out this video:
+
+https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
 
 # Wallpapers
