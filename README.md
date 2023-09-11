@@ -15,6 +15,7 @@
 
 ### **Spotify**
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
+
 **how to install**
 1) install spicetify (https://spicetify.app/docs/advanced-usage/installation/)
 
@@ -32,7 +33,7 @@
 *made using https://krita-artists.org/t/plugin-theme-creator-extension/62953*
 
 **how to install**
-1) download the theme
+1) download the theme in the "Krita Theme" folder
 2) open krita
 3) click on "Settings"
 4) click on "Manage resources"
@@ -44,15 +45,15 @@
 #
 ### Discord
 ![Discord theme preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3a5da34a-2b2e-4299-b7ed-de105c56f2d0)
-*Dark*
 #
 ![Discord theme preview-light](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3fe4a25f-b9b5-481f-81ea-cf83b5b17245)
-*Light*
 
 
-**Made using https://bdeditor.dev/theme/discordrecolor**
+*Made using https://bdeditor.dev/theme/discordrecolor*
 
-**you need to have vencord better discord or something similar installed to be able to use this theme**
+**Important!**
+
+you need to have [Vencord](https://vencord.dev/), [Better discord](https://betterdiscord.app/) or something similar installed to be able to use this theme
 
 **how to install**
 1) download the theme
@@ -67,6 +68,9 @@
 ![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/552a137a-b8e3-4052-9673-94cffd93938d)
 
 *Made using Gradience https://github.com/GradienceTeam/Gradience*
+
+**Info**
+This is also compatible with the [firefox gnome theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
 **how to install**
 1) Download the .json
