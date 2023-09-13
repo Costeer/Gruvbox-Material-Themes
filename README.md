@@ -39,7 +39,7 @@
 5) Then apply it like you would any other color variation for the text theme.
 
 ### Spotify Fluent edit (by AllJavi)
-[Spotify Fluent edit by AllJavi](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/spicetify.png)
+![Spotify Fluent edit by AllJavi](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/spicetify.png)
 *description from the [tartarus dotfiles repo](https://github.com/AllJavi/tartarus-dotfiles#betterdiscord)*
 
 For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluent) theme with a custom [material gruvbox](.config/spicetify/Themes/Fluent/color.ini) I made.
