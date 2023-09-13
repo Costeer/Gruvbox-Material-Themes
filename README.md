@@ -74,6 +74,28 @@ you need to have [Vencord](https://vencord.dev/), [Better discord](https://bette
 
 **[How to install](https://github.com/Costeer/Tutorial-Discord-Themes-Gruvbox/tree/master)**
 
+### Discord (by AllJav)
+![Discord by AllJav preview](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/betterdiscord.png)
+Theme:
+[ClearVision](https://betterdiscord.app/theme/ClearVision)
+*description from the [tartarus dotfiles repo](https://github.com/AllJavi/tartarus-dotfiles#betterdiscord)*
+
+And as all the other things the theme is modified in ~/.config/BetterDiscord/themes/ClearVision_v6.css
+
+If you want to use the same exact theme you need to upload the secundary wallpaper and link it with the url in the css file
+
+```
+  ...
+	/* APP BACKGROUND */
+	--background-shading: 40%; /* app background shading (0 for complete smoothness) [default: 100%] */
+	--background-overlay: rgba(40, 40, 40, 0.7); /* app background overlay color/gradient [default: rgba(0, 0, 0, 0.6)] */
+	--background-image: url(<your-url>); /* app background image (link must be HTTPS) [default: url(https://clearvision.gitlab.io/images/sapphire.jpg)]*/
+	--background-position: center; /* app background position [default: center] */
+	--background-size: cover; /* app background size [default: cover] */
+	--background-repeat: no-repeat; /* app background repeat [default: no-repeat] */
+  ...
+``` 
+
 # 
 ### Gradience
 ![preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/61813c0a-19e9-4364-97c0-103d99141c86)
