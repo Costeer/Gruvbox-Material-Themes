@@ -2,6 +2,8 @@
 
 **Custom gruvbox material themes for various apps**
 
+> :warning: **VERY UNIMPORTANT INFORMATION** :warning:
+
 1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operatig system like linux, MacOS, Windows, Samsung Smartfrige OS. You may even find tutorials that work :) 
 
 2. Not all of the themes are made by me some are made with the help of other some arent mine at all. Everytime this is the case you can find the disclaimer in the section of the theme I am **not** clayming the work of others but i whant to make this a resurce for manny themes for different apps in the gruvbox material stile. I will also not upload anny files from other people (i din't edit)
@@ -25,7 +27,7 @@
 
 ### **Spotify**
 ![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
-**how to install**
+**How to install**
 1) Install [Spicetify](https://spicetify.app/docs/advanced-usage/installation/).
 
 2) Download and install the ["text" theme](https://github.com/spicetify/spicetify-themes/tree/master).
@@ -48,7 +50,7 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 ![Screenshot from 2023-08-13 23-00-07](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/c7eb58ab-acb6-4f70-9fb6-1bbf62cabb44)
 *made using https://krita-artists.org/t/plugin-theme-creator-extension/62953*
 
-**how to install**
+**How to install**
 
 1) Download the theme in the "Krita Theme" folder.
 
@@ -75,7 +77,7 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 
 *Made using https://bdeditor.dev/theme/discordrecolor*
 
-**Important!**
+> :warning: Important!
 
 you need to have [Vencord](https://vencord.dev/), [Better discord](https://betterdiscord.app/) or something similar installed to be able to use this theme
 
@@ -116,7 +118,7 @@ If you want to use the same exact theme you need to upload the secundary wallpap
 **Info**
 This is also compatible with the [firefox gnome theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
-**how to install**
+**How to install**
 1) Download the .json
 
 3) Open Gradience and click on the brush symbole
@@ -137,7 +139,7 @@ https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
 
 # Wallpapers
-*all wallpaper can be downloaded in the "Wallpapers"
+*All wallpaper can be downloaded in the "Wallpapers"
  folder*
 ### Line
 ![Gruvboxwall-Nobara](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/9603fa48-c3df-4fd5-b94c-cd03ce982186)
