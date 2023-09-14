@@ -19,6 +19,7 @@
   - [Spotify](#spotify)
   - [Krita](#krita)
   - [Discord](#discord)
+  - [Blender](#blender)
   - [Gradience](#gradience)
 - Wallpapers
   - [Line](#line)
@@ -106,8 +107,9 @@ If you want to use the same exact theme you need to upload the secundary wallpap
 ``` 
 #
 ### Blender by AllJavi
+![Blender by AllJavi preview](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Images/Screenshots/blender.png)
 *description from the [tartarus dotfiles repo](https://github.com/AllJavi/tartarus-dotfiles#betterdiscord)*
-For the [material gruvbox theme](/Blender/material_gruvbox_dark.xml) on Blender, you just need to install it on `Preferences -> Theme -> install` 
+For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Blender/material_gruvbox_dark.xml) on Blender, you just need to install it on `Preferences -> Theme -> install` 
 # 
 ### Gradience
 ![preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/61813c0a-19e9-4364-97c0-103d99141c86)
