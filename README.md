@@ -25,6 +25,8 @@
   - [Discord](#discord)
   - [Blender](#blender)
   - [Gradience](#gradience)
+- Browser startpages
+  - [Gruvbox is the best Box](gruvbox-is-the-best-box)
 - Gtk themes
   - [Gruvbox Material by TheGreatMcPain](#gruvbox-material-by-thegreatmcpain)
 - Wallpapers
@@ -148,6 +150,27 @@ This is also compatible with the [firefox gnome theme](https://github.com/rafael
 Do you whant to have a nice consistant gruvbox themed gnome desktop? check out this video:
 
 https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
+
+# Browser startpages
+
+### Gruvbox is the best Box
+![Screenshot from 2023-09-18 23-58-44](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/f173f065-8e36-4e84-be1b-1fcf3553ee77)
+#
+*source: https://github.com/Costeer/another-startpage* | 
+*made using: https://github.com/PrettyCoffee/yet-another-generic-startpage*
+
+*desription from https://github.com/PrettyCoffee/yet-another-generic-startpage*
+
+[Live page (my edit)](https://costeer.github.io/another-startpage/)
+[Demo](https://prettycoffee.github.io/yet-another-generic-startpage/)
+
+**Fast setup**
+
+The easiest way to set it up is using the repositories demo with one of the many new tab override extensions like [this one for firefox](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/) or [this one for chrome](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna).
+
+Install the extension and set `https://prettycoffee.github.io/yet-another-generic-startpage/` as new tab url.
+
+[Show more](https://costeer.github.io/another-startpage/](https://github.com/PrettyCoffee/yet-another-generic-startpage#usage)
 
 # Gtk Themes
 
