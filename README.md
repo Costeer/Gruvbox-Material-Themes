@@ -21,6 +21,8 @@
   - [Discord](#discord)
   - [Blender](#blender)
   - [Gradience](#gradience)
+- Gtk themes
+  - [Gruvbox Material by TheGreateMcPain](#gruvbox-material-(by-thegreatmcpain))
 - Wallpapers
   - [Line](#line)
 - [Color Pallet](#color-pallet)
@@ -143,6 +145,9 @@ Do you whant to have a nice consistant gruvbox themed gnome desktop? check out t
 
 https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
+# Gtk Themes
+
+### Gruvbox Material (by TheGreateMcPain)
 
 # Wallpapers
 *All wallpaper can be downloaded in the "Wallpapers"
