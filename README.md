@@ -148,7 +148,7 @@ https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 # Gtk Themes
 
 ### Gruvbox Material by TheGreatMcPain
-
+![GruvBoxMatgtkscreen](https://github.com/TheGreatMcPain/gruvbox-material-gtk/blob/master/demo.png?raw=true)
 # Wallpapers
 *All wallpaper can be downloaded in the "Wallpapers"
  folder*
