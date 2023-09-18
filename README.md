@@ -155,7 +155,7 @@ https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
 ### Gruvbox is the best Box
 ![Screenshot from 2023-09-18 23-58-44](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/c6aa3a2b-e0c1-400d-abd2-5c1951b6284f)
-#
+
 *source: https://github.com/Costeer/another-startpage* | 
 *made using: https://github.com/PrettyCoffee/yet-another-generic-startpage*
 
