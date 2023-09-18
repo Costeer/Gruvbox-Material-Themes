@@ -4,7 +4,7 @@
 
 > :warning: **VERY UNIMPORTANT INFORMATION** :warning:
 
-1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operatig system like linux, MacOS, Windows, Samsung Smartfrige OS. You may even find tutorials that work :) 
+1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operatig system like linux, MacOS, Windows, Samsung Smartfrige OS. You may even find tutorials that apply to your system :) 
 
 2. Not all of the themes are made by me some are made with the help of other some arent mine at all. Everytime this is the case you can find the disclaimer in the section of the theme I am **not** clayming the work of others but i whant to make this a resurce for manny themes for different apps in the gruvbox material stile. I will also not upload anny files from other people (i din't edit)
 
