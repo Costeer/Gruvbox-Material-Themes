@@ -26,7 +26,7 @@
   - [Blender](#blender)
   - [Gradience](#gradience)
 - Browser startpages
-  - [Gruvbox is the best Box](gruvbox-is-the-best-box)
+  - [Gruvbox is the best Box](#gruvbox-is-the-best-box)
 - Gtk themes
   - [Gruvbox Material by TheGreatMcPain](#gruvbox-material-by-thegreatmcpain)
 - Wallpapers
