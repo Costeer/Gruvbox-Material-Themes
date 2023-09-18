@@ -161,8 +161,7 @@ https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
 *desription from https://github.com/PrettyCoffee/yet-another-generic-startpage*
 
-[Live page (my edit)](https://costeer.github.io/another-startpage/)
-[Demo](https://prettycoffee.github.io/yet-another-generic-startpage/)
+[Live page (my edit)](https://costeer.github.io/another-startpage/) | [Demo](https://prettycoffee.github.io/yet-another-generic-startpage/)
 
 **Fast setup**
 
