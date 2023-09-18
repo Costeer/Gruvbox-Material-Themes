@@ -149,6 +149,9 @@ https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 
 ### Gruvbox Material by TheGreatMcPain
 ![GruvBoxMatgtkscreen](https://github.com/TheGreatMcPain/gruvbox-material-gtk/blob/master/demo.png?raw=true)
+*source: https://github.com/TheGreatMcPain/gruvbox-material-gtk/tree/master*
+
+
 # Wallpapers
 *All wallpaper can be downloaded in the "Wallpapers"
  folder*
