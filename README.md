@@ -172,6 +172,14 @@ Install the extension and set `https://prettycoffee.github.io/yet-another-generi
 
 [Show more](https://costeer.github.io/another-startpage/](https://github.com/PrettyCoffee/yet-another-generic-startpage#usage)
 
+### Tartarus Startpage
+*made by AllJavi*
+[tartarus logo](https://github.com/AllJavi/tartarus-startpage/blob/master/img/README-decorator.png)
+[tartarus show vid](https://user-images.githubusercontent.com/49349604/265720584-9a2a3f4c-33ef-4eb3-9243-cc160a56a181.mp4)
+*description from [tartarus startpage repo](https://github.com/AllJavi/tartarus-startpage#-preview)*
+This start page is based on the dawn repository, which has even more functionality. I've tweaked the page's style a bit to match my dotfiles, and I've added some features to make it more comfortable.
+
+
 # Gtk Themes
 
 ### Gruvbox Material by TheGreatMcPain
