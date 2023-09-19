@@ -170,12 +170,23 @@ The easiest way to set it up is using the repositories demo with one of the many
 
 Install the extension and set `https://prettycoffee.github.io/yet-another-generic-startpage/` as new tab url.
 
-[Show more](https://costeer.github.io/another-startpage/](https://github.com/PrettyCoffee/yet-another-generic-startpage#usage)
+
+[Show more](https://github.com/PrettyCoffee/yet-another-generic-startpage#usage)
 
 ### Tartarus Startpage
-*made by AllJavi*
-[tartarus logo](https://github.com/AllJavi/tartarus-startpage/blob/master/img/README-decorator.png)
-[tartarus show vid](https://user-images.githubusercontent.com/49349604/265720584-9a2a3f4c-33ef-4eb3-9243-cc160a56a181.mp4)
+*made by AllJavi* | *[Original](https://github.com/b-coimbra/dawn)*
+![Screenshot from 2023-09-19 17-34-49](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/4df34f4e-699e-4a30-9b33-53a14bc3bf25)
+<details>
+<summary>More Screenshots</summary>
+
+![Screenshot from 2023-09-19 17-33-55](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/b08eef46-72f1-45aa-9ca2-bf4889414e22)
+#
+![Screenshot from 2023-09-19 17-34-54](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/b32953c1-bcf8-44dd-8abb-7db633515e98)
+#
+![Screenshot from 2023-09-19 17-34-58](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/cdf0b3f3-4001-4bc2-9e46-80e3ce6c2bac)
+#
+</details>
+
 *description from [tartarus startpage repo](https://github.com/AllJavi/tartarus-startpage#-preview)*
 This start page is based on the dawn repository, which has even more functionality. I've tweaked the page's style a bit to match my dotfiles, and I've added some features to make it more comfortable.
 
