@@ -24,6 +24,7 @@
   - [Krita](#krita)
   - [Discord](#discord)
   - [Blender](#blender)
+  - [Obsidian](#obsidian)
   - [Gradience](#gradience)
 - Browser startpages
   - [Gruvbox is the best Box](#gruvbox-is-the-best-box)
@@ -120,7 +121,33 @@ If you want to use the same exact theme you need to upload the secundary wallpap
 *description from the [tartarus dotfiles repo](https://github.com/AllJavi/tartarus-dotfiles#betterdiscord)*
 
 For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Blender/material_gruvbox_dark.xml) on Blender, you just need to install it on `Preferences -> Theme -> install` 
-# 
+#
+### Obsidian
+![Screenshot from 2023-09-20 21-47-31](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/dc6994cd-88ac-445a-9a03-3bfa6a3e638f)
+**How to Install**
+1) Download the Obsidian theme in releases or [here](https://github.com/Costeer/Gruvbox-Material-Themes/tree/main/Obsidian%20Theme).
+2) Open Obsidian.
+3) Open Settings.
+4) Navigate to the "Apperance" section.
+5) Click on the folder icon.
+
+![Screenshot from 2023-09-20 22-13-22](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/db041726-a0ac-4d41-b0bb-c9a94bc18e7c)
+
+6) Drag the "Obsidian Theme" folder into the themes folder.
+
+7) Close the folder and Obsidian.
+
+8) Reopen Obsidian.
+
+9) Navigate to the apperance tab in the Settings.
+
+10) Click on the dropdown and select "Materila Gruvbox".
+
+![Screenshot from 2023-09-20 22-17-23](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/bd2791a9-e81a-432a-bf1c-bed3d1116f87)
+
+11) Done!
+
+#
 ### Gradience
 ![preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/61813c0a-19e9-4364-97c0-103d99141c86)
 # 
