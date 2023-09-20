@@ -124,7 +124,12 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 #
 ### Obsidian
 ![Screenshot from 2023-09-20 21-47-31](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/dc6994cd-88ac-445a-9a03-3bfa6a3e638f)
+
 **How to Install**
+
+<details>
+<summary>show more</summary>
+
 1) Download the Obsidian theme in releases or [here](https://github.com/Costeer/Gruvbox-Material-Themes/tree/main/Obsidian%20Theme).
 2) Open Obsidian.
 3) Open Settings.
@@ -147,14 +152,18 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 
 11) Done!
 
+</details>
+
 #
 ### Gradience
 ![preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/61813c0a-19e9-4364-97c0-103d99141c86)
-# 
+
+<details>
+<summary>more screenshots</summary> 
 ![Screenshot from 2023-08-26 11-46-18](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/55ef3f43-15f3-4257-80d7-b138a400742f)
 # 
 ![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/552a137a-b8e3-4052-9673-94cffd93938d)
-
+</details>
 *Made using Gradience https://github.com/GradienceTeam/Gradience*
 
 **Info**
