@@ -160,9 +160,13 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 
 <details>
 <summary>more screenshots</summary> 
+
 ![Screenshot from 2023-08-26 11-46-18](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/55ef3f43-15f3-4257-80d7-b138a400742f)
+
 # 
+
 ![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/552a137a-b8e3-4052-9673-94cffd93938d)
+
 </details>
 *Made using Gradience https://github.com/GradienceTeam/Gradience*
 
@@ -170,17 +174,17 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 This is also compatible with the [firefox gnome theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
 **How to install**
-1) Download the .json
+1) Download the .json.
 
-3) Open Gradience and click on the brush symbole
+3) Open Gradience and click on the brush symbole.
 
-5) Click on "manage presets"
+5) Click on "manage presets".
 
-7) click on import
+7) Click on import.
 
-9) navigate to the GruvboxMaterial Dark.jsom file
+9) Navigate to the GruvboxMaterial Dark.jsom file.
 
-11) Click Select
+11) Click Select.
 
 **Enjoy the Preset**
 
