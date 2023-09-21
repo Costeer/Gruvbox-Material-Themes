@@ -25,6 +25,8 @@
   - [Blender](#blender)
   - [Obsidian](#obsidian)
   - [Gradience](#gradience)
+- Icon Packs
+  - [Gruvbox Plus Icon Pack](gruvbox-icon-pack)
 - Browser start pages
   - [Gruvbox is the best Box](#gruvbox-is-the-best-box)
 - Gtk themes
@@ -165,8 +167,8 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 # 
 
 ![Screenshot from 2023-08-26 11-46-36](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/552a137a-b8e3-4052-9673-94cffd93938d)
-
 </details>
+
 *Made using Gradience https://github.com/GradienceTeam/Gradience*
 
 **Info**
@@ -190,6 +192,30 @@ This is also compatible with the [Firefox gnome theme](https://github.com/rafael
 Do you whant to have a nice consistant gruvbox themed gnome desktop? check out this video:
 
 https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
+
+# Icon Packs
+
+hi i wont give any installation instructions for all Icon Packs if you don't know how to install/apply icons just search for a tutorial on youtube :3
+
+### Gruvbox Plus Icon Pack
+(made by SylEleuth)
+*source: https://github.com/SylEleuth/gruvbox-plus-icon-pack*
+
+![Overview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/417b89d1-417e-431f-9f20-99d1415073f2)
+
+<details>
+<summary>more screenshots</summary> 
+
+#
+
+![icons](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/1a6b3ffd-4367-4304-9988-6e008ad3258b)
+
+#
+
+![symboles](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/d674c9f6-4918-4512-92f7-49f24edf637b)
+
+</details>
+
 
 # Browser startpages
 
