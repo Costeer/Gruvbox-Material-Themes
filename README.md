@@ -1,4 +1,3 @@
-
 ![gruv-ascii-art](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/66b3a070-8b73-4e3a-8b48-ddb2009c39c2)
 
 
@@ -8,7 +7,7 @@
 
 > :warning: **VERY UNIMPORTANT INFORMATION** :warning:
 
-1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operatig system like Linux, Mac OS, Windows, Samsung Smartfrige OS. You may even find tutorials that apply to your system :) 
+1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operating system like Linux, Mac OS, Windows, Samsung Smartfrige OS. You may even find tutorials that apply to your system :) 
 
 2. Not all of the themes are made by me some are made with the help of other some aren't mine at all. Every time this is the case you can find the disclaimer in the section of the theme I am **not** claiming the work of others but i want to make this a resource for many themes for different apps in the gruvbox material stile. I will also not upload any files from other people (i din't edit)
 
@@ -26,7 +25,7 @@
   - [Blender](#blender)
   - [Obsidian](#obsidian)
   - [Gradience](#gradience)
-- Browser startpages
+- Browser start pages
   - [Gruvbox is the best Box](#gruvbox-is-the-best-box)
 - Gtk themes
   - [Gruvbox Material by TheGreatMcPain](#gruvbox-material-by-thegreatmcpain)
@@ -64,7 +63,7 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 
 1) Download the theme in the "Krita Theme" folder.
 
-3) Open krita.
+3) Open Krita.
 
 5) Click on "Settings".
 
@@ -76,7 +75,7 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 
 13) Drag the "gruvboxy.colours" file inside the "color-schemes" folder.
 
-15) Apply the Theme in krita.
+15) Apply the Theme in Krita.
 
 #
 ### Discord
@@ -133,7 +132,7 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 1) Download the Obsidian theme in releases or [here](https://github.com/Costeer/Gruvbox-Material-Themes/tree/main/Obsidian%20Theme).
 2) Open Obsidian.
 3) Open Settings.
-4) Navigate to the "Apperance" section.
+4) Navigate to the "Appearance" section.
 5) Click on the folder icon.
 
 ![Screenshot from 2023-09-20 22-13-22](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/db041726-a0ac-4d41-b0bb-c9a94bc18e7c)
@@ -144,9 +143,9 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 
 8) Reopen Obsidian.
 
-9) Navigate to the apperance tab in the Settings.
+9) Navigate to the appearance tab in the Settings.
 
-10) Click on the dropdown and select "Materila Gruvbox".
+10) Click on the drop down and select "Material Gruvbox".
 
 ![Screenshot from 2023-09-20 22-17-23](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/bd2791a9-e81a-432a-bf1c-bed3d1116f87)
 
@@ -171,12 +170,12 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 *Made using Gradience https://github.com/GradienceTeam/Gradience*
 
 **Info**
-This is also compatible with the [firefox gnome theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
+This is also compatible with the [Firefox gnome theme](https://github.com/rafaelmardojai/firefox-gnome-theme)
 
 **How to install**
 1) Download the .json.
 
-3) Open Gradience and click on the brush symbole.
+3) Open Gradience and click on the brush symbol.
 
 5) Click on "manage presets".
 
