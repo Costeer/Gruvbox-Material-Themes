@@ -198,7 +198,9 @@ https://www.youtube.com/watch?v=SPR1IKZN588&t=10s
 hi i wont give any installation instructions for all Icon Packs if you don't know how to install/apply icons just search for a tutorial on youtube :3
 
 ### Gruvbox Plus Icon Pack
+
 (made by SylEleuth)
+
 *source: https://github.com/SylEleuth/gruvbox-plus-icon-pack*
 
 ![Overview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/417b89d1-417e-431f-9f20-99d1415073f2)
