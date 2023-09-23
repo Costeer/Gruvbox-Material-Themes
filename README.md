@@ -204,7 +204,7 @@ hi i wont give any installation instructions for all Icon Packs if you don't kno
 
 *source: https://github.com/SylEleuth/gruvbox-plus-icon-pack*
 
-![Overview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/417b89d1-417e-431f-9f20-99d1415073f2)
+![icons](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/e7a4552f-88d5-4d7b-8ebe-dc775be180b7)
 
 <details>
 <summary>more screenshots</summary> 
