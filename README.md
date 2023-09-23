@@ -31,7 +31,7 @@
   - [Gruvbox is the best Box](#gruvbox-is-the-best-box)
   - [Tartarus Startpage](#tartarus-startpage)
 - Gtk themes
-  - [Gruvbox Material by TheGreatMcPain](#gruvbox-plus-icon-pack)
+  - [Gruvbox Material by TheGreatMcPain](#gruvbox-material-by-thegreatmcpain)
 - Wallpapers
   - [Line](#line)
 - [Color Pallet](#color-pallet)
