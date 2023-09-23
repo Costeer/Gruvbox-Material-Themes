@@ -26,7 +26,7 @@
   - [Obsidian](#obsidian)
   - [Gradience](#gradience)
 - Icon Packs
-  - [Gruvbox Plus Icon Pack](gruvbox-icon-pack)
+  - [Gruvbox Plus Icon Pack](#gruvbox-plus-icon-pack)
 - Browser start pages
   - [Gruvbox is the best Box](#gruvbox-is-the-best-box)
   - [Tartarus Startpage](#tartarus-startpage)
