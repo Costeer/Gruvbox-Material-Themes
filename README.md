@@ -24,6 +24,7 @@
   - [Discord](#discord)
   - [Blender](#blender)
   - [Obsidian](#obsidian)
+  - [Polybar](#polybar)
   - [Gradience](#gradience)
 - Icon Packs
   - [Gruvbox Plus Icon Pack](#gruvbox-plus-icon-pack)
@@ -155,6 +156,18 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 11) Done!
 
 </details>
+
+#
+### Polybar
+![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/789fcfcf-b80c-474b-ac6e-11f2b646764f)
+
+
+**Info**
+I do not recomend to jsut install my config i don't know what I'm doing I do recomend looking at what i did and making your own!
+
+**Installation**
+
+**Don't** please but if you want to: get the "launch.sh" to be executed after you download the "polybar-collection" folder or just clone this repo you will need to also install my rofi config for full functionality 
 
 #
 ### Gradience
