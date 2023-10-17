@@ -163,7 +163,10 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 
 
 **Info**
-I do not recomend to jsut install my config i don't know what I'm doing I do recomend looking at what i did and making your own!
+
+**I do not** recomend to just install my config i don't know what I'm doing 
+
+**I do** recomend looking at what i did and making your own!
 
 **Installation**
 
