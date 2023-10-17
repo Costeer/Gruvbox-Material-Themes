@@ -184,7 +184,7 @@ This is also compatible with the [Firefox gnome theme](https://github.com/rafael
 
 7) Click on import.
 
-9) Navigate to the GruvboxMaterial Dark.jsom file.
+9) Navigate to the GruvboxMaterial Dark.json file.
 
 11) Click Select.
 
