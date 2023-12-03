@@ -277,6 +277,19 @@ This start page is based on the dawn repository, which has even more functionali
 
 # Gtk Themes
 
+### Gruvbox Material GTK Theme by Fausto-Korpsvart
+![Gruvbox-theme-header](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/ded71484-60f1-4fa1-a545-21ea66691fac)
+*source: https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme*
+<details>
+<summary>More Screenshots</summary>
+
+![Gruvbox-theme-content1](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/f595e4e2-2cbf-438c-9402-d1c943297442)
+#
+![Gruvbox-theme-content2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/f351462d-375e-4c91-a8d7-3dff3f6a613e)
+#
+</details>
+
+
 ### Gruvbox Material by TheGreatMcPain
 ![GruvBoxMatgtkscreen](https://github.com/TheGreatMcPain/gruvbox-material-gtk/blob/master/demo.png?raw=true)
 *source: https://github.com/TheGreatMcPain/gruvbox-material-gtk/tree/master*
