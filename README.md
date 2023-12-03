@@ -16,6 +16,7 @@
 4. If you know of any Wallpapers/Themes open a Pull request and i will consider adding it 
 
 5. I hope this repo can be a valuable resource in your search for Gruvbox Material themes and wallpapers :3
+#
 
 ### Index:
 - Themes
