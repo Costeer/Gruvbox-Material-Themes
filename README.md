@@ -98,6 +98,7 @@ you need to have [Vencord](https://vencord.dev/), [Better discord](https://bette
 
 **[How to install](https://github.com/Costeer/Tutorial-Discord-Themes-Gruvbox/tree/master)**
 
+#
 ### Discord (by AllJav)
 ![Discord by AllJav preview](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/betterdiscord.png)
 Theme:
@@ -291,7 +292,7 @@ This start page is based on the dawn repository, which has even more functionali
 #
 </details>
 
-
+#
 ### Gruvbox Material by TheGreatMcPain
 ![GruvBoxMatgtkscreen](https://github.com/TheGreatMcPain/gruvbox-material-gtk/blob/master/demo.png?raw=true)
 *source: https://github.com/TheGreatMcPain/gruvbox-material-gtk/tree/master*
