@@ -26,7 +26,7 @@
   - [Blender](#blender)
   - [Obsidian](#obsidian)
   - [Polybar](#polybar)
-  - Rofi
+  - [Rofi](#rofi)
   - [Gradience](#gradience)
 - Icon Packs
   - [Gruvbox Plus Icon Pack](#gruvbox-plus-icon-pack)
