@@ -215,15 +215,19 @@ In Gnome
 Open the Settings app
 
 click on "Keybord"
+
 ![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/c17e5e2c-d91f-4b10-aa3f-47a030247af9)
 
 click on "Customizee Shortcuts"
+
 ![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/372250d7-fbfc-4690-a26a-d17975093205)
 
 scroll down and click on "Custom Shortcuts"
+
 ![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/1386d88a-d7f0-42a5-9390-ced8833be3b1)
 
 Click on the plus 
+
 ![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/68a8a586-e24f-4e96-8411-d42a5a9e99c7)
 
 Name it somthing creative or not you decide
