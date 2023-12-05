@@ -185,14 +185,35 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 
 **INFO**
 
-you will need to install rofi and a few fonts(see Installation) for rofi to display properly
+you will need to install rofi and a few fonts (see Installation) for rofi to display properly
 
 **Installation**
 
 <details>
 <summary>show more</summary>
 
-Installing the required Nerd Fonts
+**Installing Rofi itself**
+
+On rofi sould be in the repo's of moast if not all distros so just going into the terminal and typing
+
+**on Fedora**
+```
+sudo dnf install rofi
+```
+
+**on Debian/Ubuntu**
+```
+sudo apt install rofi
+```
+
+**on Arch**
+```
+sudo pacman -S rofi
+```
+
+**if your distro is not listed here you probably need to build it from source [see this guide](https://github.com/davatorium/rofi/blob/next/INSTALL.md)**
+
+**Installing the required Nerd Fonts**
 
 1. Go to https://www.nerdfonts.com/font-downloads
 
@@ -200,7 +221,7 @@ Installing the required Nerd Fonts
 
 3. Install ALL the fonts by eather draging them into your fonts folder or by clicken each and every one of them and then click install
 
-Installing Rofi
+**Installing the Rofi Theme**
 
 1. clone this repo
 ```
@@ -211,7 +232,7 @@ git clone https://github.com/Costeer/Gruvbox-Material-Themes
 
 3. set up a Shortcut to launch rofi
 
-In Gnome
+**In Gnome**
 Open the Settings app
 
 click on "Keybord"
