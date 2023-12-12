@@ -89,6 +89,44 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 #
 ![Discord theme preview-light](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3fe4a25f-b9b5-481f-81ea-cf83b5b17245)
 
+<details>
+<summary>Difference in Themes 1 & 2</summary>
+
+#
+## Friendslist
+
+**Theme 1**
+![Gruvbox-1-friendslist](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/4e546760-e232-42f2-a2ee-764194877a1a)
+
+#
+
+**Theme 2**
+![Gruvbox-2-friendslist](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/d378357e-e00f-443e-ab2c-33f2c1c7011b)
+
+#
+## Server 1
+
+**Theme 1**
+![Gruvbox-1-server-1](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/6f454585-c813-4842-a8b7-d019be4e8b35)
+
+#
+
+**Theme 2**
+![Gruvbox-2-server-1](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/c1de4392-36af-42a5-b7ae-8716d006e48b)
+
+#
+## Server 2
+
+**Theme 1**
+![Gruvbox-1-server-2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/effb6dcd-0aca-4b1e-ae56-7e450c92286c)
+
+#
+
+**Theme 2**
+![Gruvbox-2-server-2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/85133bb0-bcd1-4ad7-aa32-8071b75cf7e3)
+
+#
+</details>
 
 *Made using https://bdeditor.dev/theme/discordrecolor*
 
