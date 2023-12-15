@@ -26,6 +26,7 @@
   - [Blender](#blender)
   - [Obsidian](#obsidian)
   - [Polybar](#polybar)
+  - [Rofi](#rofi)
   - [Gradience](#gradience)
 - Icon Packs
   - [Gruvbox Plus Icon Pack](#gruvbox-plus-icon-pack)
@@ -212,6 +213,103 @@ For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/bl
 **Installation**
 
 **Don't** please but if you want to: get the "launch.sh" to be executed after you download the "polybar-collection" folder or just clone this repo you will need to also install my rofi config for full functionality 
+
+#
+### Rofi
+![Rofi launcher blured background showimmage2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3df2cd6e-88fc-4e53-8704-255a5d0b2939)
+#
+![Rofi launcher blured background showimmage](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/9dcde036-e83c-426d-9ed3-342ac656d92b)
+
+**INFO**
+
+you will need to install rofi and a few fonts (see Installation) for rofi to display properly
+
+**Installation**
+
+<details>
+<summary>Show more</summary>
+
+**Installing Rofi itself**
+
+Rofi should be in the repo's of most if not all distros so just going into the terminal and typing
+
+**on Fedora**
+```
+sudo dnf install rofi
+```
+
+**on Debian/Ubuntu**
+```
+sudo apt install rofi
+```
+
+**on Arch**
+```
+sudo pacman -S rofi
+```
+
+**if your distro is not listed here you probably need to build it from source [see this guide](https://github.com/davatorium/rofi/blob/next/INSTALL.md)**
+
+**Installing the required Nerd Fonts**
+
+1. Go to https: //www.nerdfonts.com/font-downloads.
+
+2. Download Iosevka Nerd Font and Ubuntu Nerd Font.
+
+3. Install ALL the fonts by either dragging them into your fonts folder or by clicking each and every one of them and then click install.
+
+**Installing the Rofi Theme**
+
+1. clone this repo.
+```
+git clone https://github.com/Costeer/Gruvbox-Material-Themes
+```
+
+2. Drag the rofi folder into your .config folder (if you can't see this folder, press control + H on your keyboard).
+
+3. Set up a Shortcut to launch raffia.
+
+**In Gnome**
+
+Launch the Settings app.
+
+Select "Keybord".
+
+![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/c17e5e2c-d91f-4b10-aa3f-47a030247af9)
+
+Select 'Customize Shortcuts'.
+
+![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/372250d7-fbfc-4690-a26a-d17975093205)
+
+Scroll to the bottom and click on "Custom Shortcuts".
+
+![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/1386d88a-d7f0-42a5-9390-ced8833be3b1)
+
+Click on the plus.
+
+![image](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/68a8a586-e24f-4e96-8411-d42a5a9e99c7)
+
+You can choose to name it something creative or not...
+
+Examples:
+
+1) Lo-Fi Ro-Fi
+
+more names coming soon TM
+
+In the command field put something along the lines of this
+
+```
+/home/costeer/.config/rofi/launcher.sh
+```
+
+Where "costeer" is replaced with your username.
+
+Add the Shortcut and you're Done!
+
+</details>
+
+
 
 #
 ### Gradience
