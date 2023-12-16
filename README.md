@@ -85,7 +85,7 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 15) Apply the Theme in Krita.
 
 #
-### Discord
+### Discord 
 ![Discord theme preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3a5da34a-2b2e-4299-b7ed-de105c56f2d0)
 #
 ![Discord theme preview-light](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3fe4a25f-b9b5-481f-81ea-cf83b5b17245)
@@ -138,6 +138,9 @@ you need to have [Vencord](https://vencord.dev/), [Better discord](https://bette
 **[How to install](https://github.com/Costeer/Tutorial-Discord-Themes-Gruvbox/tree/master)**
 
 #
+### Discord (by Synqat)
+**Vencord Discord Theme** *source: https://github.com/Synqat/vencord-theme*
+
 ### Discord (by AllJav)
 ![Discord by AllJav preview](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/betterdiscord.png)
 Theme:
