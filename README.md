@@ -145,6 +145,7 @@ you need to have [Vencord](https://vencord.dev/), [Better discord](https://bette
 
 <details>
 <summary>show more screenshots</summary>
+
 ![Vencord-theme-screenshot-2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/84fbd089-4eb2-4676-8c09-de7cc2c8a663)
 	
 #
