@@ -138,8 +138,21 @@ you need to have [Vencord](https://vencord.dev/), [Better discord](https://bette
 **[How to install](https://github.com/Costeer/Tutorial-Discord-Themes-Gruvbox/tree/master)**
 
 #
-### Discord (by Synqat)
+### Vencord Discord (by Synqat)
 **Vencord Discord Theme** *source: https://github.com/Synqat/vencord-theme*
+
+![Vencord-theme-screenshot-1](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/a95840d9-1e61-4d0d-9a5a-432fecc9039e)
+
+<details>
+<summary>show more screenshots</summary>
+![Vencord-theme-screenshot-2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/84fbd089-4eb2-4676-8c09-de7cc2c8a663)
+	
+#
+
+![Vencord-theme-screenshot-3](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/95b8e4ab-7627-4f2c-b4f7-933f51c11e48)
+#
+</details>
+
 
 ### Discord (by AllJav)
 ![Discord by AllJav preview](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/betterdiscord.png)
