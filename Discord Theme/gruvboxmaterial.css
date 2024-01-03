@@ -8,7 +8,7 @@
  * @source https://github.com/Costeer/Gruvbox-Material-Themes
 */
 
-@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css');
+@import url('https://github.com/Costeer/CustomDiscordRecolor/blob/master/Themes/DiscordRecolor/DiscordRecolor.css');
 
 :root {
   --accentcolor: 212,190,152;
