@@ -1,4 +1,11 @@
-                                               
+               costeer@elixir-tower
+ /| ､	      os  ~ Nobara Linux 39 (GNOME Edition)
+(°､ ｡ 7	      upt ~ 1m
+|､  ~ヽ	      wm  ~ gnome-xorg
+じしf_,)〳     cpu ~ AMD Ryzen 5 3600 6-Core Processor
+               ● ● ● ● ●
+
+                                                     
     ⠀⠀⢀⣤⣴⣶⣶⣶⣦⣤⡀⠀⣀⣠⣤⣴⣶⣶⣶⣶⣶⣶⣶⣶⣤⣤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀  Gruvbox  is  the  best   Box  
     ⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀  Hardware Information 
     ⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀  󰌢    MS-7B86 4.0 
