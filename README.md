@@ -85,7 +85,7 @@ For spicetify I used the [Fluent](https://github.com/williamckha/spicetify-fluen
 15) Apply the Theme in Krita.
 
 #
-### Discord
+### Discord 
 ![Discord theme preview](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3a5da34a-2b2e-4299-b7ed-de105c56f2d0)
 #
 ![Discord theme preview-light](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/3fe4a25f-b9b5-481f-81ea-cf83b5b17245)
@@ -138,6 +138,23 @@ you need to have [Vencord](https://vencord.dev/), [Better discord](https://bette
 **[How to install](https://github.com/Costeer/Tutorial-Discord-Themes-Gruvbox/tree/master)**
 
 #
+### Vencord Discord (by Synqat)
+**Vencord Discord Theme** *source: https://github.com/Synqat/vencord-theme*
+
+![Vencord-theme-screenshot-1](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/a95840d9-1e61-4d0d-9a5a-432fecc9039e)
+
+<details>
+<summary>show more screenshots</summary>
+
+![Vencord-theme-screenshot-2](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/84fbd089-4eb2-4676-8c09-de7cc2c8a663)
+	
+#
+
+![Vencord-theme-screenshot-3](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/95b8e4ab-7627-4f2c-b4f7-933f51c11e48)
+#
+</details>
+
+
 ### Discord (by AllJav)
 ![Discord by AllJav preview](https://github.com/AllJavi/tartarus-dotfiles/raw/master/Images/Screenshots/betterdiscord.png)
 Theme:
