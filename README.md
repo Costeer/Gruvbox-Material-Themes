@@ -5,18 +5,18 @@
 
 **Custom gruvbox material themes for various apps**
 
-> :warning: **VERY UNIMPORTANT INFORMATION** :warning:
-
-1. None oft the installation Instructions in this repo will tell you how to install the app itself just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operating system like Linux, Mac OS, Windows, Samsung Smartfrige OS. You may even find tutorials that apply to your system :) 
-
-2. Not all of the themes are made by me some are made with the help of other some aren't mine at all. Every time this is the case you can find the disclaimer in the section of the theme I am **not** claiming the work of others but i want to make this a resource for many themes for different apps in the gruvbox material stile. I will also not upload any files from other people (i din't edit)
-
-3. If you find any spelling mistakes please make a new Issue i have Dyslexia and English isn't my native language
-
-4. If you know of any Wallpapers/Themes open a Pull request and i will consider adding it 
-
-5. I hope this repo can be a valuable resource in your search for Gruvbox Material themes and wallpapers :3
-#
+> [!WARNING]  
+> VERY (UN)IMPORTANT INFORMATION
+> 1. None of the installation Instructions in this repo will tell you how to install the app itself, just the theme. You can find video instructions on how to install any of these apps by simply going on YouTube and searching for "How to install (NAME_OF_APP)" and if you add your operating system like Linux, Mac OS, Windows, Samsung Smartfrige OS. You may even find tutorials that apply to your system :) 
+>
+> 2. Not all of the themes are made by me: some are made with the help of others and some aren't mine at all. Every time this is the case you can find the disclaimer in the section of the theme. I am **not** claiming the work of others but I want to make this a resource for many themes for different apps in the Gruvbox material style. I will also not upload any files from other people (that I didn't edit)
+>
+> 3. If you find any spelling mistakes please make a new Issue i have Dyslexia and English isn't my native language.
+>
+> 4. If you know of any Wallpapers/Themes, please open a Pull request and I will consider adding it 
+>
+> 5. I hope this repo can be a valuable resource in your search for Gruvbox Material themes and wallpapers :3
+---
 
 ### Index:
 - Themes
@@ -42,7 +42,7 @@
 # Themes
 
 ### **Spotify**
-![Screenshot from 2023-08-13 23-00-38](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
+![Spotify Theme Preview](https://github.com/Costeer/gruvbox-material-themes/assets/142180709/89129ba6-0b3f-4ac4-ad59-f0c17c077d32)
 **How to install**
 1) Install [Spicetify](https://spicetify.app/docs/advanced-usage/installation/).
 
